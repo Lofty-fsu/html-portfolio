@@ -1,0 +1,30 @@
+body{
+  background-image: url(Images/avtomobil-gai-v-tashkente-scaled.jpg);
+}
+.container{
+  background-color: white;
+  width: 100vw; 
+  position: relative;
+}
+.bimage{
+  border: none;
+  border-radius: 100;
+  display: flex;
+  justify-content: center;
+  height: 50vh;
+  margin-top: 100px;
+}
+.paragraph{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  font-size: 10rem;
+}
+footer {
+  width: 100%;
+  text-align: center; /* Centers the text/content */
+  background-color: #f8f8f8; /* Light background for visibility */
+  padding: 20px 0; /* Adjust padding for spacing */
+  position: relative
+}
